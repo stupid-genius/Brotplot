@@ -306,6 +306,8 @@ module.exports = function (grunt) {
             '*.{ico,png,txt}',
             'images/{,*/}*.webp',
             '{,*/}*.html',
+            'jquery-ui-1.9.2.custom/css/*',
+            'jquery-ui-1.9.2.custom/js/*',
             'styles/fonts/{,*/}*.*'
           ]
         }, {
