@@ -29,6 +29,7 @@ along with Brotplot.  If not, see <http://www.gnu.org/licenses/>.
 	wallpaper mode
 	use animation timer
 	add url params processing for plot
+	add plot params to image
 	re-work UI
 */
 // jshint devel:true
